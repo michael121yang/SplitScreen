@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BCB72218-7F77-F8BD-8D52-5E6C639D72DF}") = "SplitScreen - Copy", "Assembly-CSharp.csproj", "{9DEF5F92-7B13-2277-1E1F-3A1A8A26BBE7}"
+EndProject
+Project("{BCB72218-7F77-F8BD-8D52-5E6C639D72DF}") = "SplitScreen - Copy", "Assembly-CSharp-Editor.csproj", "{0D50626E-F7B9-BD14-44DF-59A750A8B62E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DEF5F92-7B13-2277-1E1F-3A1A8A26BBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEF5F92-7B13-2277-1E1F-3A1A8A26BBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEF5F92-7B13-2277-1E1F-3A1A8A26BBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEF5F92-7B13-2277-1E1F-3A1A8A26BBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D50626E-F7B9-BD14-44DF-59A750A8B62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D50626E-F7B9-BD14-44DF-59A750A8B62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D50626E-F7B9-BD14-44DF-59A750A8B62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D50626E-F7B9-BD14-44DF-59A750A8B62E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
